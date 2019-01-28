@@ -8,7 +8,8 @@ services:
 python:
 - "3.5"
 - "3.6"
-- "nightly"
+- "3.7"
+# - "nightly"
 
 .mixtures:
 - &py3_7-base
